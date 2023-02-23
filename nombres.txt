@@ -1,5 +1,6 @@
 Lista de estudiantes clase de git
  - Juan
- - Jonathan 
- - Sergio 
  - Felipe
+ - Jonathan 
+ -Sergio 
+ -Felipe
