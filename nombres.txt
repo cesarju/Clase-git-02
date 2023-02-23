@@ -1,9 +1,6 @@
 Lista de estudiantes clase de git
  - Juan
  - Felipe
-<<<<<<< HEAD
-=======
  - Santiago
->>>>>>> a29d9245fa505a003592bee6ae15e1c84531fd15
 jose luis
 cesar
