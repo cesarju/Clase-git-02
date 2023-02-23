@@ -1,6 +1,11 @@
 Lista de estudiantes clase de git
  - Juan
- - Felipe 
  - Santiago
  - Cesar
  - Sergio
+ - Felipe
+ - Jairo
+ - Yessica
+- Jonathan 
+ - Vanessa
+
