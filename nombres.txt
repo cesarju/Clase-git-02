@@ -4,3 +4,5 @@ Lista de estudiantes clase de git
  - Santiago
  - Jairo
  - Yessica
+ - Cesar
+- Jonathan 
