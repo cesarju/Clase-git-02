@@ -9,4 +9,5 @@ Lista de estudiantes clase de git
  - Yessica
  - Cesar
 - Jonathan 
+-jose luis
 >>>>>>> 634f574aa5f6b1a135f320856df4afbed2728ba7
