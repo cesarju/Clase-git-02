@@ -5,3 +5,7 @@ Lista de estudiantes clase de git
  - Jairo
  - Luz
  - Kristin
+ - Yulian
+ - Yessica
+ - Jose
+ - Andrey
