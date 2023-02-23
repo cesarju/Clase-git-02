@@ -5,5 +5,5 @@ Lista de estudiantes clase de git
  - Jairo
  - Yessica
  - Cesar
-- Jonathan 
+ - Jonathan 
  - Vanessa
