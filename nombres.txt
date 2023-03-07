@@ -7,3 +7,5 @@ Lista de estudiantes clase de git
  - Alexander
  - Alejandra
  - Arroyave 
+ - Zapata 
+ 
