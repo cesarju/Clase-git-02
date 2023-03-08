@@ -8,4 +8,5 @@ Lista de estudiantes clase de git
  - Alejandra
  - Arroyave 
  - Zapata 
+ - Alex2
  
